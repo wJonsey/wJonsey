@@ -1,3 +1,5 @@
+![Profile view counter](https://komarev.com/ghpvc/?username=wJonsey)
+
 <table>
 	<tr>
 		<td><img src="pinterest-animation.gif" alt="Patrick Jane animation"></td>
